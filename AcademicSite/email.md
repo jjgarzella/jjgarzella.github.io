@@ -1,11 +1,14 @@
+@def title = "Emails and Bots"
 
 
-### Q: Why don't I just put my email on my website so you can click on it?
+Email: jgarzellaucsd.edu (but replace the "a" with an "@")
 
-Answer: Bots. 
+### Q: Why don't you just put my email on your website so I can click on it?
+
+### A: Bots. 
 
 It might seem a little paranoid to be afraid of bots, but they're 
-not so hard to make. You can make one, and all the knowledge
+really simple to make. You can make one, and all the knowledge
 you need is contained in [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/).
 
 Here's what you need to do:
@@ -19,24 +22,24 @@ Here's what you need to do:
 3. Use an email sending module (Chapter 18) to send any email you want 
    to the web addresses you found!
 
-With slightly more sophisticated ideas (though the strategy is essentially the same),
+With slightly more sophisticated ideas (the strategy is essentially the same),
 a few people (say, 1-5 people) can send spam emails to literally tens of thousands.
  
 ### Q: How can one hope to protect oneself from the onslaught of automated spam?
 
-Answer: Be a special snowflake.
+### A: Be unique.
 
 If you take one look at the homepage of my website, it's pretty easy to see
-what my email address is and use step 3 to send me spam. It's also not too bad
+what my email address is and use step 3 to send me spam. It might not even be too bad
 to use steps 1 and 2 to get my address automatically. But if you try to write
 a regular expression/web scraper combo that correctly gets my email AND a 
 normally formatted email, you might find that it is a bit of a pain.
 
 If you continue to another academic website, you'll likely find that their 
 email is pretty easy to find, but it's formatted in yet a different way. 
-Trying to make a web scraper that finds *any* email from *any* academic
-website is a MAJOR pain in the neck, and once you've done it, the second
-any person changes their formatting you have to fix it.  
+Trying to make a web scraper that finds *any* email from *any* 
+website is a MAJOR pain in the neck, and once you've done it, as soon as 
+any person changes one thing your bot breaks.
 
 Almost anything connected to the internet can be misused, given enough time.
 Computer security consists of making "enough time" so long that nobody
