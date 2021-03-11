@@ -22,7 +22,7 @@ Here's what you need to do:
 With slightly more sophisticated ideas (though the strategy is essentially the same),
 a few people (say, 1-5 people) can send spam emails to literally tens of thousands.
  
-Q: How can one hope to protect oneself from the onslaught of automated spam?
+### Q: How can one hope to protect oneself from the onslaught of automated spam?
 
 Answer: Be a special snowflake.
 
@@ -39,5 +39,5 @@ website is a MAJOR pain in the neck, and once you've done it, the second
 any person changes their formatting you have to fix it.  
 
 Almost anything connected to the internet can be misused, given enough time.
-Computer security consists of making ``enough time'' so long that nobody
+Computer security consists of making "enough time" so long that nobody
 bothers to do it.
