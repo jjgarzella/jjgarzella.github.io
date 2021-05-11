@@ -1,32 +1,75 @@
 @def title = "Emails and Bots"
 
 
-Email: jgarzellaucsd.edu (but replace the "a" with an "@")
+Email: jgarzellaucsd.edu but replace the "a" with an "@"
 
-### Q: Why don't you just put my email on your website so I can click on it?
+### Why don't you just put my email on your website so I can click on it and/or copy-paste it?
 
-### A: Bots. 
 
-It might seem a little paranoid to be afraid of bots, but they're 
-really simple to make. You can make one, and all the knowledge
+[Email-harvesting](https://en.wikipedia.org/wiki/Email-address_harvesting)
+bots roam the web, looking for email addresses of real people
+(probably so the bot owners can send lots of spam emails). 
+Changing one's email in a human-readable way is quite
+common in academic websites.
+The fancy word for this is [address munging](https://en.wikipedia.org/wiki/Address_munging).
+
+What follows is a short demonstration of why it works:
+
+### How to make a simple email bot
+
+You can make your own email bot! 
+All the knowledge
 you need is contained in [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/).
 
 Here's what you need to do:
 
 0. Learn the Basics of Python (Chapters 1-6).
 1. Learn about [Regular Expressions](https://en.wikipedia.org/wiki/Regular_expression),
-   and write one that matches emails (Chapter 7).
+   and write one that matches valid email addresses (Chapter 7).
 2. Write a [web scraper](https://en.wikipedia.org/wiki/Web_scraping)
    using [Beatiful Soup](https://realpython.com/beautiful-soup-web-scraper-python/)
    that searches through web pages looking for emails (Chapter 12).
 3. Use an email sending module (Chapter 18) to send any email you want 
    to the web addresses you found!
 
-With slightly more sophisticated ideas (the strategy is essentially the same),
-a few people (say, 1-5 people) can send spam emails to literally tens of thousands.
- 
-### Q: How can one hope to protect oneself from the onslaught of automated spam?
+Now, you have a bot that, given a web page, searches for correctly formatted email address
+like "johndoe@example.com"
+and can send messages to those addresses.
 
+### Fighting the bots
+
+Ok, now let's try to modify the bot to scrape academic websites for
+emails.
+
+First, modify the bot to serach for both valid email addresses
+and emails that are formatted like my email.
+
+Now, make the bot search for email addresses formatted correctly, 
+like mine, 
+and like [Sam Spiro's](http://www.math.ucsd.edu/~sspiro/).
+
+Now, make the bot search for email addresses formatted correctly, 
+like mine, 
+like [Sam Spiro's](http://www.math.ucsd.edu/~sspiro/),
+and like [Aaron Bertram's](https://www.math.utah.edu/~bertram/).
+
+Now, make the bot search for email addresses formatted correctly, 
+like mine, 
+like [Sam Spiro's](http://www.math.ucsd.edu/~sspiro/),
+like [Aaron Bertram's](https://www.math.utah.edu/~bertram/),
+and like [Isabel Vogt's](http://faculty.washington.edu/ivogt/).
+
+Now, make the bot search for email addresses formatted correctly, 
+like mine, 
+like [Sam Spiro's](http://www.math.ucsd.edu/~sspiro/),
+like [Aaron Bertram's](https://www.math.utah.edu/~bertram/),
+like [Isabel Vogt's](http://faculty.washington.edu/ivogt/),
+and like [Chenyang Xu's](http://math.mit.edu/~cyxu/).
+
+...and hopefully at this point you see how hard it would be
+to make a bot that just gets any researcher's email.
+
+<!--
 ### A: Be unique.
 
 If you take one look at the homepage of my website, it's pretty easy to see
@@ -44,3 +87,4 @@ any person changes one thing your bot breaks.
 Almost anything connected to the internet can be misused, given enough time.
 Computer security consists of making "enough time" so long that nobody
 bothers to do it.
+-->
