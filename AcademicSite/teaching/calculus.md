@@ -18,7 +18,7 @@ then check out
 the [Saxon Math Calculus](https://www.amazon.com/Calculus-Trigonometry-Analytic-Geometry-Saxon/dp/156577146X)
 book.
 This was the book that I learned from, and 
-I absolutely love it [(why?)](/teaching/saxon).
+I absolutely love it [(why?)](../saxon/).
 
 
 
