@@ -1,0 +1,470 @@
+<html><head><title>Math 157 - Intro to Mathematical Software (Winter 2023)</title>
+
+</head><body>
+<h1> Math 157 - Intro to Mathematical Software (Winter 2023)</h1>
+
+<p>
+Information appearing below is subject to revision until the first lecture. Some additional
+information, particularly on the use of CoCalc, will be given in the first lecture;
+CoCalc also provides a <a href="https://tutorial.cocalc.com/students/">tutorial for students</a>.
+See also
+<a href="https://mathweb.ucsd.edu/~kedlaya/math157/">last year's course webpage</a> or 
+<a href="https://www.math.ucsd.edu/~tgrubb/math157/">the one from two years ago</a>.
+</p>
+
+<!--<p>
+This course is set up so as to allow seamless pivots between hybrid and fully remote instruction as conditions require.
+During periods of hybrid instruction, all aspects of the course will still allow for remote participation;
+however, students are strongly recommend to take advantage of in-person instruction when available.
+</p>-->
+
+
+<p>
+We are currently monitoring the course waitlist and will take steps as needed to accommodate all interested students.
+</p>
+
+<p>
+<b>Course description:</b>
+Math 157 is an introduction to the use of mathematical software. Although mathematics
+is still largely taught as a pencil-and-paper (and chalk) subject, this approach ignores the fundamental role 
+played by computing technology in the process of mathematical reasoning and discovery. This course will introduce students to a broad but coherent collection of open-source software tools, and to diverse examples of their use in mathematical study and research. 
+The course will be taught in a hands-on fashion;
+lectures will consist of interactive demonstrations, while assignments will combine conceptual questions with guided experimentation and discovery.
+We will make extensive use of the <a href="https://julialang.org/">Julia</a> programming language, 
+and the <a href="https://jupyter.org/">Jupyter</a> notebook system,
+though
+no prior exposure to these tools will be assumed.
+</p>
+
+<p>
+This course operates using the cloud computing platform <a href="https://www.cocalc.com/">CoCalc</a>.
+The lectures use a "learn by doing" model in which students interact with CoCalc during the lecture; 
+students are expected to attend class with a laptop or tablet <b>with a keyboard</b> (not a smartphone),
+but the only local software installation required is a web browser.
+More details on how CoCalc is to be used will be given in the first lecture.
+</p>
+
+<p>
+In addition to CoCalc, we will use Canvas to distribute lecture videos, and <a href="https://zulipchat.com/">Zulip</a> for communication about the course. Connection details for Zulip will be posted to Canvas. 
+(After week 1, I reserve the right to ignore messages sent by email rather than Zulip.)
+</p>
+
+<p>
+Although Math 157 has been taught in some form since 2017, it remains highly experimental in both its use of
+new technology and the approach to pedagogy. 
+In addition to the final course evaluations, there will be several opportunities to submit feedback during the course; this feedback will help me evaluate some of the experiments and plan modifications for future iterations of the course.
+</p>
+
+<!--<p>
+This class will be opened for concurrent enrollment as soon as I can confirm that space is available, hopefully
+by the end of week 1. It should also be feasible to audit the course, either in-person or remotely; contact the instructor to be added to Canvas.
+</p>-->
+
+<p>
+<b>Note on Concurrent Enrollment/Public Viewing:</b> This class is open for concurrent enrollment. 
+Email me if you would like to do this. 
+Additionally, due to the digital nature of this class it will be ostensibly possible to follow along throughout the quarter, even if you are not officially enrolled in the course (no guarantees!). 
+If you are interested in doing this, email me. 
+</p>
+
+<p>
+<b>Instructor:</b> <a href="https://mathweb.ucsd.edu/~jjgarzel/">Jack J. Garzella</a>,
+jgarzell [at] ucsd [etcetera].
+</p>
+
+<p>
+<b>TAs:</b> 
+</p><ul>
+<li> Xinyu Wu (xiw134 [at] ucsd.edu)</li>
+<li> Patrick Girardet (pgirarde [at] ucsd.edu)</li>
+<li> Ziping Li (zil063 [at] ucsd.edu)</li>
+
+</ul>
+<p></p>
+
+<p>
+<b>Lectures:</b> MWF 1:00-1:50am in Solis 104, recordings will be posted on Canvas, 
+typically about an hour after the lecture ends.
+No lectures on Monday, January 16 or Monday, February 20 (university holidays).
+A reminder about <a href="https://returntolearn.ucsd.edu/return-to-campus/safety-requirements/index.html">campus COVID policies</a>:
+</p><ul>
+<!--<li>
+In case UCSD mandates remote instruction (or if a lecture is announced over Zulip as being remote), please
+do not come to the lecture room. This applies in particular during <a href="https://adminrecords.ucsd.edu/Notices/2021/2021-12-21-2.html">weeks 1 and 2</a>.
+</li>-->
+<li>
+The <a href="https://returntolearn.ucsd.edu/vaccine-mandate/overview/index.html">UC COVID-19 and flu vaccine mandates</a> apply to all students (and course staff). As of December 22, the COVID-19 vaccine mandate includes a booster shot.
+</li>
+<li>
+Students coming to campus must complete the <a href="https://ucsd.co1.qualtrics.com/jfe/form/SV_4O3FqInkiyS1qsJ">daily self-screening</a> (<a href="https://returntolearn.ucsd.edu/return-to-campus/testing-and-screening/student-screening-and-testing/index.html">more information</a>).
+</li>
+<li>
+Students must <a href="https://returntolearn.ucsd.edu/return-to-campus/testing-and-screening/index.html">get tested for COVID</a> when required by campus policies, upon experiencing COVID-like symptoms, or upon notification as a close contact of a COVID-positive person.
+</li>
+<!--<li>
+Masks are required at all times indoors, including in the lecture room (<a href="https://adminrecords.ucsd.edu/PPM/docs/516-30.html">full policy</a>). A single-layer cloth mask does not comply; use of respirator masks (N-95, KN-95, KF-94) is recommended.
+</li>
+<li>
+No food or drink may be consumed in the lecture room, including water; please step outside instead.
+</li>-->
+</ul>
+<!--If you have a disability that interferes with compliance with these requirements, please request a disability accommodation from OSD <b>or</b> take advantage of remote participation options.
+<p></p>
+-->
+
+<p>
+This class includes a participation component which factors into the course grade (see below).
+In order to participate fully, students are expected to attend each lecture with a laptop or large tablet with keyboard, equipped with Internet access and a web browser. 
+<!--Students participating remotely are recommended to use a second screen to view the livestream or the recording; the video will be a screen share that will closely reflect what you will see in CoCalc.-->
+ </p>
+
+<p>
+In-class participation will typically include interaction with Jupyter notebooks in CoCalc, use of Zulip chat, and online research. As a courtesy to fellow students, please keep other online activity to a minimum during lecture, and do not do anything that causes your device to produce audible output.
+</p>
+
+<p>
+<b>Discussion sections:</b> <!--Wed 5-5:50pm, 6-6:50pm, 7-7:50pm in APM 6402 (on Zoom in weeks 1 and 2). -->
+You may attend any section, 
+but students registered for that section will have priority in case the room fills up. Details about remote participation to be confirmed.
+</p>
+
+<p>
+<b>Office hours (in-person and/or Zoom):</b> 
+</p><ul>
+  <li> <b>Garzella: </b> IN-PERSON: 2:00-3:00 PM Mondays, VIRTUAL: 10:00-11:00 AM Fridays</li>
+  <li> <b>Girardet: </b> IN-PERSON: 2:00-3:00 PM Fridays, VIRTUAL: 4:30-5:30 PM Thursdays</li>
+  <li> <b>Li: </b> IN-PERSON: 4:00-5:00 PM Tuesdays, 3:30-4:30 PM Thursdays</li>
+  <li> <b>Wu: </b> IN-PERSON: 10:00-11:00 AM Thursdays, VIRTUAL: 3:00-4:00 PM Tuesdays,</li>
+</ul>
+For room numbers and zoom links, please see Zulip.
+In addition, we will be monitoring Zulip at various times, particularly right before homeworks are due.
+<p></p>
+<p>
+In some cases, office hours scheduled for in-person may be shifted to Zoom. This will be announced on Zulip.
+</p>
+
+<p>
+<b>Textbook:</b> 
+None. In lieu of purchasing a textbook, students will need to create a free account on <a href="https://cocalc.com/">CoCalc</a> in order to complete and submit assignments (including the quizzes and final project).
+(It is not necessary to pay for an upgraded account; equivalent functionality will be provided to enrolled students.)
+If you do not use your official UCSD email address to create the account, please provide the instructor with the address you used in order to gain access to the course materials.
+</p>
+
+<p>
+<b>Prerequisites:</b> 
+
+</p><ul>
+<li>
+Any one of Math 18 or Math 20F or Math 31AH (linear algebra).
+</li>
+<li>
+Math 20D (differential equations). Can be taken concurrently; petition through EASy in this case.
+</li>
+<li>
+A course which involves programming in one of the following languages: C, C++, Java, Julia, Python, R.
+This requirement is meant to be flexible; since it is impossible to make a comprehensive list, you may need to 
+petition through EASy if the course you are using is not on the preapproved list.
+</li>
+</ul>
+<p></p>
+
+<p>
+<b>Grading:</b> 
+
+This course will be graded using standards-based grading.
+That means that the grade for the course is divided into 10 units:
+<ul>
+	<li>7 assignments</li>
+	<li>1 final project (worth 2 units)</li>
+	<li>participation (worth 1 unit)</li>
+</ul>
+
+Each unit will be graded on a scale from 1 to 5, with 5 being the best.
+A score of "5" corresponds roughly to getting an "A" on an assignment in the
+traditional system. 
+In particular, a student's assignment need not be perfect to get a 5,
+they only need demonstrate successful understanding of the material.
+Likewise, grades of 4, 3, 2, and 1 roughly correspond to B, C, D, and F.
+
+The grade cutoffs are as follows:
+<ul>
+	<li>To guarantee a grade of "A" or better,
+		a student must earn a 5 on all 10 units.</li>
+	<li>To guarantee a grade of "A-" or better,
+		a student must earn a 5 on 8/10 units and a 4 on all 10 units.</li>
+	<li>To guarantee a grade of "B+" or better,
+		a student must earn a 5 on 5/10 units and a 4 on all 10 units.</li>
+	<li>To guarantee a grade of "B" or better,
+		a student must earn a 4 on all 10 units.</li> 
+	<li>To guarantee a grade of "B-" or better,
+		a student must earn a 4 on 8/10 units and a 3 on all 10 units.</li>
+	<li>To guarantee a grade of "C+" or better,
+		a student must earn a 4 on 5/10 units and a 3 on all 10 units.</li>
+	<li>To guarantee a grade of "C" or better,
+		a student must earn a 3 on all 10 units.</li>
+  <li>... and so on</li>
+</ul>
+
+The instructor reserves the right to adjust the "in-between" 
+grade cutoffs (A-, B+, B-, C+, etc.) 
+to make it easier to get these grades. 
+The cutoffs won't be adjusted
+to make any grades harder to get.
+The plan is to not make any adjustments, such an adjustment will only happen
+under an exceptional circumstance.
+<br /><br />
+There are two quizzes, which do not contribute to the final grade.
+Instead, a quiz grade will replace one unit grade if the quiz grade is 
+higher.
+Thus, a quiz could replace a homework, participation, or half of a final project grade.
+If the quiz grade is lower than all homework/participation/final project grades, nothing changes.
+<br /><br />
+Furthermore, if a student wishes to improve their grade 
+on homeworks,
+there will be an opportunity to do so at the end of class,
+roughly they will have the opportunity to do one or more extra final projects
+to replace a grade from their homework.
+Extra final projects must be proposed by the student, and
+topics must be related to a non-perfect grade in a previous homework
+or quiz.
+<!--on one or two homework
+after the deadline has passed, they may do an extra final project to improve
+their grade. 
+<ul>
+        <li>The extra final project must be on the same topics as the 
+		homework(s) whose grades the student wants to improve.</li>
+	<li>The extra final project should cover the same material
+		as the one or two homeworks whose grades the student wishes 
+		to improve</li>
+	<li>
+</ul>
+-->
+No additional excuses will be granted (not even for students joining the course late, or for confirmed COVID cases) <b>except</b> for an Incomplete grade (see below). 
+Ane missing element will score 1 in this calculation.
+</p>
+
+<p> 
+A <a href="https://students.ucsd.edu/academics/exams-grades-transcripts/grades/request-remove-incomplete.html">request for an Incomplete grade</a> will only be granted in accordance with <a href="http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Regulations/500">UCSD policies</a>. In particular, you must be on track to receive a passing grade based on your submitted homework and quiz results.
+To convert an incomplete into a final grade, you must provide to the instructor proper documentation of the circumstances leading to the Incomplete, and arrange with the instructor to complete all outstanding course requirements no later than the end of the subsequent quarter.
+</p>
+
+<p>
+<b>Homework:</b> 
+There will be 7 weekly assignments.
+Homeworks 1-3 will be completed as by all students. 
+Homeworks 4-7 will each have two choices--a "Math" assignment 
+and a "Programming" assignment.
+Students choose <b>exactly one</b> of the two choices and
+do that one.
+Between the four assignments, each student must choose two math
+assginments and two programming assignments.
+No credit will be given for assignments which do not follow the previous rules.
+For example, if a student does three "Math" assginments, they
+will not recieve credit for the third one.
+<br />
+All assignments will be assigned, completed, submitted, evaluated, and returned using CoCalc; the process will be explained in the first lecture. 
+Homeworks will be due Fridays at 10:00 PM Pacific time during weeks 2-8.
+<br />
+<br />
+Students will be able to turn in homeworks up to one week late for a deduction of one
+point--i.e. if they would have recievced a 4 but the assignment was 
+completed late, they will recieve a 3.
+<br />
+<br />
+Because life happens, students will be granted two week-long extenstions
+on homeworks. 
+These are intended for non-normal circumstances.
+In order for a student to use an extension, they must request it on a google form
+BEFORE the due date of the assignment.
+In addition, during weeks 4-7, the student must specify whether they will 
+complete the "Math" or the "Programming" assginment BEFORE the due date.
+
+No additional excuses will be granted (not even for students joining the course late, or for confirmed COVID cases) <b>except</b> for an Incomplete grade (see below). 
+</p>
+
+<p>
+<b>Quizzes:</b> Two take-home quizzes, due Thursdays at 8pm (in weeks 5 and 8).
+Quizzes will be assigned 24 hours before the due time and submitted via CoCalc.
+<br />
+Quiz 1 will take place on Thursday of week 5, and Quiz 2 will take place on Thursday of week 8.
+</p>
+    
+<p>
+<b>Final exam:</b> None. 
+Instead, there will be an open-ended final project 
+(due Thursday of finals week at 10pm), 
+to be submitted via CoCalc. 
+This will be associated with a final presentation. 
+Details about this will be given by the beginning of week 8.
+</p>
+
+<p>
+<b>Participation</b>: Each lecture will be presented in the form of a Jupyter notebook with which you will interact in various ways; 
+at the end of the lecture you will also be expected to complete a brief (60 seconds or less) daily questionnaire. 
+This forms a graded component, which will be measured using CoCalc's timestamped changelogs for the appropriate 
+directory in your course project; 
+to accommodate asynchronous participation, 
+the window being measured will close at 8pm on the day after the the lecture. 
+Participation will not be measured for the first week (week of 1/9); 
+the third lecture (1/13) will be measured for practice to illustrate how the system works.
+<br /> <br />
+Grading for the participation unit is as follows:
+<ul>
+  <li> 5 grade: 20/25 points </li>
+  <li> 4 grade: 18/25 poitns </li>
+  <li> 3 grade: 15/25 poitns </li>
+  <li> 2 grade: 10/25 points </li>
+  <li> 1 grade: anything else </li>
+</ul>
+
+<b>Upshot: those who want to follow along by watching recordings should plan on watching the recording the day of or the day after the lecture to recieve full participation credit.</b>
+</p>
+
+
+<p> 
+<b>Grading Algorithm:</b>
+Grades will be calculated in the following way: 
+first, a all relevant unit grades will be calculated on the scale from 1 to 5.
+This inlcudes homeworks, quizzes, participation, and final projects (2 unit grades per final project).
+Then the best 10 of these will be kept and used to score the student's grade.
+</p>
+
+
+<p> 
+<b>UPDATES:</b>
+Due to difficulties with the autograder/cocalc system, we will make the following modifications
+to the syllabus:
+<ul>
+  <li> The due date for Homeworks 3 and 4 is moved to Tuesday, Feb 21 (at 10PM). Students who used an extension on 
+    either of these exams get their extension back, and may use it again on these homeworks or on a different one.
+  </li>
+  <li> The late due date for Homeworks 3 and 4 is moved to Friday, Feb 24 (at 10PM). </li>
+  <li> The late due date for Homework 5 is moved to March 3. </li>
+  <li> Any student whose Homework is causing the autograder to crash will be given the opportunity to comment out the part that makes the autograder crash, for a grade that will be counted as a late grade, even after the late deadline. Students may not modify any other part of their project after the late deadline. </li>
+</ul>
+</p>
+
+<!--
+<p>
+For the conversion of raw scores into letter grades, the following minima are guaranteed:
+<table border="1">
+<tbody><tr>
+<td> Percentage </td>
+<td> 97 </td>
+<td> 93 </td>
+<td> 90 </td>
+<td> 87 </td>
+<td> 83 </td>
+<td> 80 </td>
+<td> 77 </td>
+<td> 73 </td>
+<td> 70 </td>
+</tr>
+<tr>
+<td> Minimum grade </td>
+<td> A+ </td>
+<td> A </td>
+<td> A- </td>
+<td> B+ </td>
+<td> B </td>
+<td> B- </td>
+<td> C+ </td>
+<td> C </td>
+<td> C- </td>
+</tr>
+</tbody></table>
+Additionally, any score in at least the 85th percentile or higher is guaranteed an A grade, while any score in the 65th percentile or higher is guaranteed a B grade.
+</p>
+
+The final cutoffs were set as follows (rounding to the nearest 0.1%):
+
+<table border="1">
+<tbody><tr>
+<td> Percentage </td>
+<td> 96.5 </td>
+<td> 92.5 </td>
+<td> 89 </td>
+<td> 86 </td>
+<td> 82 </td>
+<td> 78 </td>
+<td> 73 </td>
+<td> 67 </td>
+<td> 60 </td>
+</tr>
+<tr>
+<td> Minimum grade </td>
+<td> A+ </td>
+<td> A </td>
+<td> A- </td>
+<td> B+ </td>
+<td> B </td>
+<td> B- </td>
+<td> C+ </td>
+<td> C </td>
+<td> C- </td>
+</tr>
+</tbody></table>
+-->
+
+<p>
+<b>Academic Integrity:</b>
+   </p><ul>
+    <li>
+    For homework assignments, you are welcome (and expected) to work with other students in the class. You must clearly indicate who you worked with on each problem. In addition, you must write your solutions in your own words; do not copy/paste from others, as CoCalc's TimeTravel feature makes this trivial to detect. None of this applies to quizzes or the final project, for which collaboration rules will be specified separately.
+    </li>
+    <li>
+    For homework assignments, quizzes, and the final project, you are welcome (and expected) to do research online using the CoCalc documentation, Google, Wikipedia, Stack Overflow, etc. However, you must clearly attribute any such source material, being as specific as possible; e.g., provide URLs to individual web pages rather than to whole web sites. Again, write material in your own words rather than copying directly from sources. You <b>may not</b> consult interactively with any humans besides students in the class (whom you should acknowledge as above) and course staff (whom you do not need to cite).
+    </li>
+    <li>Misuse of CoCalc or Zulip will be considered a violation of academic integrity. This includes
+unauthorized access to other user accounts and behavior (in class or online) that violates UCSD's <a href="http://www.ucsd.edu/catalog/front/shpp.html">discrimination and harassment policies</a>.
+    </li>
+    <li>
+    Violations of academic integrity may be handled by zeroing out scores on individual assigments; 
+assigning failing course grades; and/or <a href="https://students.ucsd.edu/sponsor/student-conduct/regulations/22.00.html">campus disciplinary measures</a>.
+    </li>
+    
+   </ul>
+
+<p></p>
+
+<p><b>Topics calendar:</b></p>
+
+<p>
+Some adjustments may be made as the term progresses.
+</p><ul>
+<li>
+Week 1: CoCalc, Jupyter notebooks, markdown syntax, LaTeX, kernels
+</li>
+<li>
+Week 2: Julia 
+</li>
+<li>
+Week 3: More Julia, Modular Arithmetic, and Linear Algebra
+</li>
+<li>
+Week 4: More Linear algebra
+</li>
+<li>
+Week 5: Discrete math (combinatorics, graph theory)
+</li>
+<li>
+Week 6: Algebra, number theory, cryptography
+</li>
+<li>
+Week 7: Statistics and data wrangling
+</li>
+<li>
+Week 8: Natural Language Processing / Machine Learning
+</li>
+<li>
+Week 9: Flex
+</li>
+<li>
+Week 10: Final project presentations
+</li>
+</ul>
+<p></p>
+ 
+
+
+</body></html>

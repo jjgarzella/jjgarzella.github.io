@@ -1,4 +1,16 @@
-@def title = "Articles Worth Reading"
+@def title = "Articles"
+
+[How to send and reply to email](https://matt.might.net/articles/how-to-email/)
+
+If you're new to professional emails, this is a good introduction.
+I've found that these conventions are
+often followed in the mathematical community.
+
+[The illustrated guide to a PhD](https://matt.might.net/articles/phd-school-in-pictures/)
+
+This helps to put the knowledge you gain in the process of getting a PhD in perspective.
+More generally, I really like Matt Might's blog--he has a really compelling story, and some
+interesting productivity tips.
 
 [Advice from Ravi Vakil](https://virtualmath1.stanford.edu/~vakil/potentialstudents.html)
 

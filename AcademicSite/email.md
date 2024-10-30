@@ -57,14 +57,14 @@ Now, make the bot search for email addresses formatted correctly,
 like mine, 
 like [Sam Spiro's](http://www.math.ucsd.edu/~sspiro/),
 like [Aaron Bertram's](https://www.math.utah.edu/~bertram/),
-and like [Isabel Vogt's](http://faculty.washington.edu/ivogt/).
+and like [Jennifer Balakrishnan's](http://math.bu.edu/people/jbala/).
 
 Now, make the bot search for email addresses formatted correctly, 
 like mine, 
 like [Sam Spiro's](http://www.math.ucsd.edu/~sspiro/),
 like [Aaron Bertram's](https://www.math.utah.edu/~bertram/),
-like [Isabel Vogt's](http://faculty.washington.edu/ivogt/),
-and like [Chenyang Xu's](http://math.mit.edu/~cyxu/).
+like [Jennifer Balakrishnan's](http://math.bu.edu/people/jbala/),
+and like [Chenyang Xu's](https://web.math.princeton.edu/~chenyang/).
 
 ...and hopefully at this point you see how hard it would be
 to make a bot that just gets any researcher's email.

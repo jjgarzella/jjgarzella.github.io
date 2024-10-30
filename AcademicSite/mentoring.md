@@ -3,6 +3,10 @@
 ### UCSD
 Spring 2021 - RTG Reading Course - Commutative Algebra
 
+Spring 2022 - RTG Reading Course - Commutative Algebra 
+(intense) 
+
+
 ##### Important Note: 
 <!-- Reading courses and undergraduate research projects
 can be some of the most valuable experiences

@@ -1,9 +1,14 @@
 @def title = "Teaching"
 
 **UCSD**\\
-Spring 2021 - TA Math 10A - Calculus 1\\
+Winter 2022 - Associate Instructor Math 157 - [Course Website](math157)\\
+Fall 2022 - TA Math 20B - Calculus II\\
+Winter 2022 - TA Math 157 - Intro to Math Software\\
+Fall 2021 - TA Math 100A - Abstract Algebra I\\
+Spring 2021 - TA Math 10A - Calculus I\\
 Winter 2021 - TA Math 157 - Intro to Math Software\\
-Fall 2020 - TA Math 20A - Calculus 1\\
+Fall 2020 - TA Math 20A - Calculus I\\
+
 
 I often teach Calculus.
 If you're wondering why you would want to learn Calculus,\\
