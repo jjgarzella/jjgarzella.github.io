@@ -1,7 +1,8 @@
 @def title = "Teaching"
 
 **UCSD**\\
-Winter 2022 - Associate Instructor Math 157 - [Course Website](math157)\\
+Spring 2023 - TA Math 20C - Calculus III \\
+Winter 2023 - Associate Instructor Math 157 - [Course Website](math157)\\
 Fall 2022 - TA Math 20B - Calculus II\\
 Winter 2022 - TA Math 157 - Intro to Math Software\\
 Fall 2021 - TA Math 100A - Abstract Algebra I\\

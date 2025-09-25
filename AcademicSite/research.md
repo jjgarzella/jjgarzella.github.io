@@ -1,10 +1,14 @@
 @def title = "Publications"
 
-My current research interests are in the geometry of perfectoid spaces,
-as well as computational algebraic geometry/number theory via the
-[Julia programming language](https://julialang.org/). 
+My current research interests are in the singularities of the MMP in characteristic p and mixed
+characteristic, p-adic geometry (especially via condensed mathematics), and computational algebraic
+geometry/number theory via the [Julia programming language](https://julialang.org/). 
 
 # Preprints & Publications
+
+K3 surfaces of any Artin-Mazur height over $\mathbb{F}_5$ and $\mathbb{F}_7$ via Quasi-F-split
+singularities and gpu acceleration (with R. Batubara and A. Pan), 
+[arXiv:2502.12428](https://arxiv.org/abs/2502.12428)
 
 The perfectoid Tate algebra has uncountable Krull dimension, 
 [arXiv:2212.13315](https://arxiv.org/abs/2212.13315)
