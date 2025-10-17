@@ -4,33 +4,13 @@ My current research interests are in the singularities of the MMP in characteris
 characteristic, foundations of analytic geometry and $p$-adic geometry, and computational algebraic
 geometry/number theory via the [Julia programming language](https://julialang.org/). 
 
+I've written a slightly longer description of my research for various audiences: 
+* [for non-mathematicians](non-mathematicians/) 
+* [for mathematicians](mathematicians/) 
+* [for potential employers or collaborators](employers-collabs/)
+
 # Preprints & Publications
 
-<!-- \newcommand{\publication}[3]{ --> 
-<!--   @@card -->
-<!--     ~~~ -->
-<!--     #1 --> 
-<!--     (with #2), -->
-<!--     #3 -->
-<!--     ~~~ -->
-<!--   @@ -->
-<!-- } -->
-
-<!-- ```julia:pubcards -->
-<!-- # hideall -->
-<!-- pubs = [ -->
-<!--     (title = "On \$F\$-pure thresholds and quasi-\$F\$-purity of hypersurfaces", --> 
-<!--     collabs = "V. Jagathese", -->
-<!--     publinks = "[arXiv:2509.06211](https://arxiv.org/abs/2509.06211)") -->
-<!-- ] -->
-
-<!-- for pub in pubs -->
-<!--     """ -->
-<!--     \\publication{$(pub.title)}{$(pub.collabs)}{$(pub.publinks)} -->
-<!--     """ |> println -->
-<!-- end -->
-<!-- ``` -->
-<!-- \textoutput{pubcards} -->
 
 @@card
 On $F$-pure thresholds and quasi-$F$-purity of hypersurfaces
