@@ -2,22 +2,22 @@
 
 ### Notes on Prerequisites for Undergraduate Research
 
-I've done research with a number of undergraduate students in the past. My undergrad mentees tend to
-have experience with coding or abstract algebra, or ideally both. More precisely, students that do
-research with me tend to at minimum have at least one of the following backgrounds:
+I've done research with a number of undergraduate students in the past. 
+My undergrad mentees tend to
+have some technical background, usually at least one of
 
-1. Very strong coder, limited abstract algebra experience (e.g. currently taking Math 100/103 sequence),
-   willing to learn about high performance computations
-2. Strong coder, finished at least one abstract algebra sequence (e.g. Math 100), willing to do a reading 
-   course in Atiyah-MacDonald before really diving into research
-3. Finished a year-long course in algebraic geometry, willing to learn how to code
+* coding experience, perhaps in a language like Python, R, or Julia; experience other langauges is also useful.
+* abstract algebra, e.g. at the level of Artin's *Algebra* (UCSD Math 100/103).
+* algebraic geometry, e.g. at the level of Hartshorne's *Algebraic Geometry* (UCSD Math 203).
 
-If you are a UCSD undergrad, and you meet or exceed one of these, especially (2) or (3), then
-I likely can find a research project for you. 
+If you're interested in doing undergraduate research with me and
+you have one or more of the following skills and are willing
+to learn how to code (or to learn new coding skills), then
+I can probably find a research project for you.
 However, I might be too busy to mentor another student 
 (sadly, this is somewhat likely, but feel free to ask though).
 
-If you don't feel like you have the necessary background, but you're still interested in research, I'd 
+If you don't yet have the necessary background, but you're still interested in research, I'd 
 encourage you to consider doing a reading course. 
 I often do reading courses, and others in the department do as well.
 In particular, I often do reading courses on Atiyah-MacDonald, which is quite foundational for my

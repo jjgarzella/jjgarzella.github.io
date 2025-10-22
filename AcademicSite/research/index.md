@@ -29,7 +29,7 @@ The perfectoid Tate algebra has uncountable Krull dimension,
 [arXiv:2212.13315](https://arxiv.org/abs/2212.13315)
 @@
 
-##### The following publications come from pre-graduate-school projects, and might not reflect my current interests
+##### The following publications come from pre-graduate-school projects, and might not reflect my current interests.
 
 @@card
 Leveraging Compiler Intermediate Representation for Multi- and Cross-Language Verification, 
