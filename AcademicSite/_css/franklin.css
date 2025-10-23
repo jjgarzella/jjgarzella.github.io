@@ -340,3 +340,8 @@ code {
   border-radius: 8px;
   margin: 16px 0;
 }
+
+.headshot {
+  float: right;
+  width: 300px;
+}
