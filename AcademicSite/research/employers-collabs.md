@@ -35,7 +35,7 @@ One goal of my research is to be a part of fixing this situation, but there's a 
 
 In the meantime, if you have an example, I am generally aware of most of the algorithms and implementations that are out there, and I can probably tell you whether your example is possible or not.
 
-Finally, in a similar topic, if you have a variety $X$ that has characteristic $p$, and you want to calculate the $F$-crystal structure on the crystalline cohomology of $X$, then maybe I can help.
+Finally, related to the previous topic, if you have a variety $X$ that has characteristic $p$, and you want to calculate the $F$-crystal structure on the crystalline cohomology of $X$, then maybe I can help.
 This is related to the previous item but the $F$-crystal structure has more information.
 
 
