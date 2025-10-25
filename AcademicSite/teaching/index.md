@@ -1,6 +1,7 @@
 @def title = "Teaching"
 
 **UCSD**\\
+Fall 2025 - TA MAth 20C - Calculus III\\
 Spring 2023 - TA Math 20C - Calculus III \\
 Winter 2023 - Associate Instructor Math 157 - [Course Website](math157)\\
 Fall 2022 - TA Math 20B - Calculus II\\
