@@ -79,7 +79,7 @@ Who knows, but if it tells us anything at all, it wouldn't have been possible wi
 research.
 This brings in to focus one of the real purposes of basic research:
 
-> The real output of basic research isn't the research itself, it's the **expertise** of the 
+> The useful output of basic research isn't the research itself, it's the **expertise** of the 
 > researcher.
 
 Note that "real log canonical thresholds" weren't a thing before Saito, if you look closely he

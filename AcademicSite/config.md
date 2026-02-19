@@ -4,14 +4,17 @@ website.
 The website_* must be defined for the RSS to work
 -->
 @def website_title = "Jack J. Garzella"
-@def website_descr = "Jack J. Garzella's academic website"
-@def website_url   = ""
+@def website_descr = "Jack J. Garzella's academic website and blog"
+@def website_url   = "jjgarzella.github.io"
 
 @def author = "Jack J. Garzella"
 
 @def mintoclevel = 2
 
 @def prepath = "~jjgarzel"
+
+@def generate_rss = true
+@def rss_full_content = true
 
 <!--
 Add here files or directories that should be ignored by Franklin, otherwise

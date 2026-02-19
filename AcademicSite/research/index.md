@@ -9,8 +9,28 @@ I've written a slightly longer description of my research for various audiences:
 * [for mathematicians](mathematicians/) 
 * [for potential employers or collaborators](employers-collabs/)
 
+# In preparation
+
+@@card
+GPU-accelerated zeta functions of projective hypersurfaces
+(with R. Batubara, Y. Huang, and M. Mellberg),
+in preparation
+@@
+
+@@card
+$F$-intersection flatness of dagger and Berkovich affinoid algebras
+(with R. Datta and K. Tucker),
+in preparation
+@@
+
+
 # Preprints & Publications
 
+@@card
+Abhyankar valuations, Prüfer-Manis valuations, and perfectoid Tate algebras
+(with D. Dine),
+[arXiv:2510.22678](https://arxiv.org/abs/2510.22678)
+@@
 
 @@card
 On $F$-pure thresholds and quasi-$F$-purity of hypersurfaces
