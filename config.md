@@ -11,7 +11,7 @@ The website_* must be defined for the RSS to work
 
 @def mintoclevel = 2
 
-@def prepath = "~jjgarzel"
+<!-- @def prepath = "~jjgarzel" -->
 
 @def generate_rss = true
 @def rss_full_content = true
