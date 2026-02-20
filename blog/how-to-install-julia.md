@@ -17,20 +17,18 @@ I want to clear up one subtlety in terminology. In order to do mathematical rese
 This distinction can be confusing at times, because many computer algebra systems provide both a programming language and a framework, releasing them with the same name. One example of this is [Macaulay2](https://macaulay2.com/).
 On the other hand, we will use the [Julia programming language](https://julialang.org/), with [Oscar](https://www.oscar-system.org/) as our framework.
 
-<!--Many computer algebra systems provide both a programming language and a standard library, referring to the programming language synonymously with the project as a whole. For example, MAGMA, Macaulay2, Mathematica, and GAP follow this pattern. A non-example is PARI/GP - GP is the programming language and PARI is the framework. SageMath takes a very different approach, by using Python as the programming language and focusing on the standard library--however, Sage does make a few (mostly trivial) changes to the look and feel of Python for the sake of mathematical notation. Oscar **only** provides a framework, using Julia out-of-the-box as its programming language. Thus, while it makes sense for me to say that I wrote a program "in MAGMA" or "in Sage", it doesn't make sense to write a program "in Oscar", since Oscar is just a package that lives within the wider Julia infrastructure.-->
-
 Thus, to install Oscar it is enough to install Julia, and install various Julia packages (including Oscar itself).
 
 ## Installing Julia
 
 ### Windows
 
-* It turns out that Oscar doesn't actually support Windows. This is ok though, because we can use Windows Subsystem for Linux (WSL), see the [instructions](https://www.oscar-system.org/getting-started/install-win/) on Oscar's website. 
-* I highly recommend installing the [Windows terminal](https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=US). Among other things, it'll let you use math symbols like Ω or ≤ in your code. <!--This is useful even if you don't plan to use the terminal to code, since (as we'll see later) the terminal is used for Julia prompts.-->
+* It turns out that Oscar doesn't actually support Windows. This is ok though, because we can use Windows Subsystem for Linux (WSL), see the [instructions](https://www.oscar-system.org/install/win/) on Oscar's website. 
+* I highly recommend installing the [Windows terminal](https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=US). Among other things, it'll let you use math symbols like Ω or ≤ in your code. 
 
 ### Mac
 
-* If you're on a Mac, you'll need to install the Apple developer tools, see the [instructions](https://www.oscar-system.org/getting-started/install-mac/) on Oscar's website.
+* If you're on a Mac, you'll need to install the Apple developer tools, see the [instructions](https://www.oscar-system.org/install/mac/) on Oscar's website.
 
 ## Step 1: Version manager (Install Julia)
 
