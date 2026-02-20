@@ -47,14 +47,14 @@
 <h2 id="installing_julia">Installing Julia</h2>
 <h3 id="windows">Windows</h3>
 <ul>
-<li><p>It turns out that Oscar doesn&#39;t actually support Windows. This is ok though, because we can use Windows Subsystem for Linux &#40;WSL&#41;, see the <a href="https://www.oscar-system.org/getting-started/install-win/">instructions</a> on Oscar&#39;s website. </p>
+<li><p>It turns out that Oscar doesn&#39;t actually support Windows. This is ok though, because we can use Windows Subsystem for Linux &#40;WSL&#41;, see the <a href="https://www.oscar-system.org/install/win/">instructions</a> on Oscar&#39;s website. </p>
 </li>
 <li><p>I highly recommend installing the <a href="https://apps.microsoft.com/detail/9n0dx20hk701?hl&#61;en-US&amp;gl&#61;US">Windows terminal</a>. Among other things, it&#39;ll let you use math symbols like Ω or ≤ in your code. </p>
 </li>
 </ul>
 <h3 id="mac">Mac</h3>
 <ul>
-<li><p>If you&#39;re on a Mac, you&#39;ll need to install the Apple developer tools, see the <a href="https://www.oscar-system.org/getting-started/install-mac/">instructions</a> on Oscar&#39;s website.</p>
+<li><p>If you&#39;re on a Mac, you&#39;ll need to install the Apple developer tools, see the <a href="https://www.oscar-system.org/install/mac/">instructions</a> on Oscar&#39;s website.</p>
 </li>
 </ul>
 <h2 id="step_1_version_manager_install_julia">Step 1: Version manager &#40;Install Julia&#41;</h2>
