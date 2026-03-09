@@ -35,3 +35,7 @@ and one can see them playing out in modern mathematical software projects.
 Julia is one of my favorite technologies, and this article does a good job explaining why it works so well.
 The points brought up in this article, particularly the ability to easily mix and match with libraries on github
 (some of which are highly optimized), has come up multiple times in my own research.
+
+[Welcome to Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04)
+
+This article reads like a fever dream. Maybe it's a glimpse into how the future of AI-assisted programming.

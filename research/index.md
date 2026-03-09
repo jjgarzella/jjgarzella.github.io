@@ -9,22 +9,21 @@ I've written a slightly longer description of my research for various audiences:
 * [for mathematicians](mathematicians/) 
 * [for potential employers or collaborators](employers-collabs/)
 
-# In preparation
+<!-- # In preparation -->
+
+# Preprints & Publications
 
 @@card
-GPU-accelerated zeta functions of projective hypersurfaces
+Newton strata realization for hypersurfaces via explicit $p$-adic cohomology
 (with R. Batubara, Y. Huang, and M. Mellberg),
-in preparation
+[arXiv:2602.24155](https://arxiv.org/abs/2511.00753)
 @@
 
 @@card
 $F$-intersection flatness of dagger and Berkovich affinoid algebras
 (with R. Datta and K. Tucker),
-in preparation
+[arXiv:2511.00753](https://arxiv.org/abs/2511.00753)
 @@
-
-
-# Preprints & Publications
 
 @@card
 Abhyankar valuations, Prüfer-Manis valuations, and perfectoid Tate algebras
