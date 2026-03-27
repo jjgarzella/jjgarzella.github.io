@@ -345,3 +345,14 @@ code {
   float: right;
   width: 300px;
 }
+
+.center {
+  width: 100%;
+  /* margin-right: 40em; */
+  /* margin: 0 auto; */
+  /* border: 1px solid black; */
+  /* text-align: center; */
+  margin-left: 2em;
+  /* text-align: left; */
+  /* margin-left: 50px; */
+}
