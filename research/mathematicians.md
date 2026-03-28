@@ -33,7 +33,7 @@ come from some cohomology theory over $\mathbb{Q}$.
 
 Grothendieck's philosophy is that despite the no-go theorem, there should be some sort of category,
 called the cateogry of *motives*, that acts as a universal cohomology theory. So we'd expect any
-nice cohomology functor $H^*$ to factor through a fucntor $M$ from geometric spaces to motives.
+nice cohomology functor $H^*$ to factor through a functor $M$ from geometric spaces to motives.
 
 @@center
 ![Diagram showing the motives picture over F_p, with rigid and crystalline cohomology each factoring through motives](/assets/research/motives_charp.png)
