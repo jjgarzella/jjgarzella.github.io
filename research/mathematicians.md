@@ -26,7 +26,8 @@ geoemtric spaces to linear spaces.
 However, there isn't just one cohomology theory, there are many different ones, each with the same
 nice properties. However, there are no-go theorems (for example, the one due to Serre) which guarentee that a *universal*
 cohomology theory cannot exist. There are various setting one can work in, but perhaps the most
-famous is characteristic $p$ algebraic geometry: here we have $\ell$-adic cohomology and various
+famous is characteristic $p$ algebraic geometry, for $p$ a fixed prime number.
+Here, we have $\ell$-adic cohomology (for $\ell$ a prime different than $p$) and various
 flavors of $p$-adic cohomology (rigid, crystalline, etc.), Serre's and no-go theorem saying that they can't
 come from some cohomology theory over $\mathbb{Q}$.
 
