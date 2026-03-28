@@ -24,10 +24,10 @@ geoemtric spaces to linear spaces.
 @@
 
 However, there isn't just one cohomology theory, there are many different ones, each with the same
-nice properties. However, there are no-go theorems which guarentee that a *universal*
+nice properties. However, there are no-go theorems (for example, the one due to Serre) which guarentee that a *universal*
 cohomology theory cannot exist. There are various setting one can work in, but perhaps the most
 famous is characteristic $p$ algebraic geometry: here we have $\ell$-adic cohomology and various
-flavors of $p$-adic cohomology (rigid, crystalline, etc.), and no-go theorem saying that they can't
+flavors of $p$-adic cohomology (rigid, crystalline, etc.), Serre's and no-go theorem saying that they can't
 come from some cohomology theory over $\mathbb{Q}$.
 
 
@@ -79,7 +79,7 @@ a finite human being and have expertise in very few of them.
 There has been some exciting recent progress in this area. The paper
 [arXiv:1802.03261](https://arxiv.org/abs/1802.03261v2), colloquially known as "B-M-S Two",
 constructs a "motivic filtration" (something that was discovered from a "close to the motive"
-approach due to Voevodsky et. al.) on a cohomology theory that is "closer to the ground". The
+approach due to Voevodsky et. al.) on $p$-adic algebraic $K$-theory using a cohomology theory that is "closer to the ground". The
 cohomology theory in question is a variant of crystalline cohomology, called *prismatic cohomology*,
 though the paper predates that term. Prismatic cohomology has recieved a lot of fanfare, and the
 philosophy of motives shows why: it seems to be honestly closer to the motive than things that we've
