@@ -28,7 +28,7 @@ nice properties. However, there are no-go theorems (for example, the one due to 
 cohomology theory cannot exist. There are various setting one can work in, but perhaps the most
 famous is characteristic $p$ algebraic geometry, for $p$ a fixed prime number.
 Here, we have $\ell$-adic cohomology (for $\ell$ a prime different than $p$) and various
-flavors of $p$-adic cohomology (rigid, crystalline, etc.), Serre's and no-go theorem saying that they can't
+flavors of $p$-adic cohomology (rigid, crystalline, and so on), and Serre's no-go theorem saying that they can't
 come from some cohomology theory over $\mathbb{Q}$.
 
 
@@ -41,8 +41,8 @@ nice cohomology functor $H^*$ to factor through a functor $M$ from geometric spa
 @@
 
 Now, making a definition that \*should\* coincide with the correct category of motives isn't
-completely impossible, and Grothendieck even did this with his category of *pure motives*. However,
-the definition of pure motives is really abstract, and it's quite hard to prove things with it.
+completely impossible. Grothendieck even did this for "nice" spaces with his category of *pure motives*. 
+However, the definition of pure motives is really abstract, and it's quite hard to prove things with it.
 What's missing is a *combinatorics* for this category, i.e. a concrete way to work tangibly with the
 objects and morphisms in the category. 
 
@@ -61,14 +61,19 @@ definition and try to prove that the information it contains is already enough f
 
 There are many research topics in algebraic geometry that are some variant of this philosophy: we
 define some notion which should be related to motives. Usually it's a numerical invariant that
-should be deducible from knowledge of the motive, or it's a linear category that should recieve
-a functor from the category of motives. This includes, but is not limited to \*deep breath\* motivic
-homotopy theory, motivic cohomology, $K$-theory, Chow motives, Chow rings, Algebraic cycles, Hodge
-structures, mixed Hodge modules, log canonical thresholds, Bernstien-Sato polynomials, domino numbers, Gromov-Witten
+should be deducible from knowledge of the motive, perhaps a linear category that should recieve
+a functor from the category of motives, or even a definition that should recover the correct
+notion of motives if we had a combinatorics for it. 
+This includes, but is not limited to \*deep breath\* motivic
+homotopy theory, motivic cohomology, $K$-theory, 
+Chow motives, pure motives, mixed motives, mixed Tate motives, Chow rings, algebraic cycles, Hodge
+structures, mixed Hodge modules, log canonical thresholds, 
+Bernstien-Sato polynomials, domino numbers, Gromov-Witten
 invariants, Hodge atoms, $F$-crystals, constructible sheaves, $F$-gauges, prismatic $F$-gauges,
 prismatic $F$-crystals, $F$-pure thresholds, quasi-$F$-pure thresholds, Dieudonné modules,
-$p$-divisible groups, Tate modules, Newton polygons, Ekedahl-Oort types, $p$-ranks, $a$-numbers, Galois representations,
-modules with integrable connection, etc. With this broad interpretation, one can say that perhaps
+$p$-divisible groups, Tate modules, Newton polygons, Ekedahl-Oort types, $p$-ranks, $a$-numbers, Sato-Tate groups, motivic Galois groups, Galois representations,
+modules with integrable connection, and so on and so forth. 
+With this broad interpretation, one can say that perhaps
 a majority of algebraic geometers are studying motives! 
 
 My interest in motives is in exploring this combinatorics: considering various notions like the ones
@@ -97,7 +102,8 @@ invariants. For example
 * [arXiv:2509.06211](https://arxiv.org/abs/2509.06211) shows that there exists a relationship between
   two downstream invariants (the "quasi-$F$-split height" and the "$F$-pure threshold"). The previous
   proof uses cohomology heavy machinery, but our proof is "close to the ground", very short, and more
-  general. Is this evidence of something deeper going on at the cohomology level? It's unclear, but
+  general. Is this evidence of something deeper going on at the cohomology level? 
+  Is it an artifact of the setup we have? It's unclear, but
   I'd be really interested to find out. 
 * [arXiv:2602.24155](https://arxiv.org/abs/2602.24155) gives improved
   algorithms, data structures, and implementations for calculating the $F$-crystal structure on crystalline cohomology. It includes faster versions of cases where implementations did exist before, and also cases where computations did not exist before. 
