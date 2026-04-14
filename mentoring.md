@@ -2,6 +2,8 @@
 
 ### Notes on Prerequisites for Undergraduate Research
 
+*Update: Unfortunately, I am currently too busy to take on new undergrad mentees currently. I'll update this page again when that changes.*
+
 I've done research with a number of undergraduate students in the past. 
 My undergrad mentees tend to
 have some technical background, usually at least one of
@@ -13,8 +15,8 @@ have some technical background, usually at least one of
 If you're interested in doing undergraduate research with me and you have one or more of the listed
 skills and are willing to learn how to code (or to learn new coding skills), then I can probably
 find a research project for you. 
-However, I might be too busy to mentor another student (sadly, this is somewhat likely, but feel
-free to ask though).
+<!-- However, I might be too busy to mentor another student (sadly, this is somewhat likely, but feel -->
+<!-- free to ask though). -->
 
 If you don't yet have the necessary background, but you're still interested in research, I'd 
 encourage you to consider doing a reading course. 
