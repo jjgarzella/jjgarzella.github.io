@@ -1,11 +1,11 @@
-@def title = "On the usefulness of basic research"
-@def rss_title = "On the usefulness of basic research"
+@def title = "Why basic research is important"
+@def rss_title = "Why basic research is important"
 @def rss_pubdate = Date(2026, 3, 9)
 @def rss_description = "An overview of why people might fund basic research"
 @def tags = ["general-audience"]
 
 
-# On the usefulness of basic research
+# Why basic research is important
 
 My work, and the work of most pure mathematicians, broadly falls under the category of *basic research* (sometimes *basic science*
 or *basic mathematics*).
