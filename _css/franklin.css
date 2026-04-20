@@ -356,3 +356,7 @@ code {
   /* text-align: left; */
   /* margin-left: 50px; */
 }
+
+.spacer {
+    height: 80vh;
+}

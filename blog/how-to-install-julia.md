@@ -2,6 +2,7 @@
 @def rss_title = "How to Install Julia and Oscar like a Pro"
 @def rss_pubdate = Date(2026, 2, 19)
 @def rss_description = "Overview of the Julia/Oscar toolchain"
+@def tags = ["code-heavy", "general-audience"]
 
 # How to Install Julia and Oscar like a Pro
 
