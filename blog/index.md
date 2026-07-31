@@ -14,3 +14,5 @@ Browse by tag: [general-audience](/tag/general-audience/) · [code-heavy](/tag/c
 [On the usefulness of basic research](why-basic-research)
 
 [A review of *Yumi and the Nightmare Painter*](nightmare-painter)
+
+[1-Day Vacation Guide: Salt Lake City](slc_vacation_guide)
