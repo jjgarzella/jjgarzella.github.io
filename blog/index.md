@@ -9,6 +9,8 @@ Browse by tag: [general-audience](/tag/general-audience/) · [code-heavy](/tag/c
 
 [How to Install Julia and Oscar like a Pro](how-to-install-julia)
 
+[PSA: Magma Issue Tracker Repo](magma_psa)
+
 ## General Audience
 
 [On the usefulness of basic research](why-basic-research)
