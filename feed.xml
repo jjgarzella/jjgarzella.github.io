@@ -23,6 +23,35 @@
 
 <item>
   <title>
+    <![CDATA[  PSA: Magma Issue Tracker Repo  ]]>
+  </title>
+  <link> jjgarzella.github.io/blog/magma_psa/index.html </link>
+  <guid> jjgarzella.github.io/blog/magma_psa/index.html </guid>
+  <description>
+    <![CDATA[  An advertisement for the recently released Magma issue tracker  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  <h1 id="psa_magma_issue_tracker_repo">PSA: Magma Issue Tracker Repo</h1>
+<p><a href="https://magma.maths.usyd.edu.au/magma/">Magma</a> is a leading computer algebra system &#40;CAS&#41; for pure mathematics. If you&#39;re not familiar with computer algebra, a CAS is just an example of a framework, like Angular or React or Unity; it gives you the tools necessary to do math research so that you don&#39;t have to start from scratch. Many computer algebra systems &#40;especially older ones&#41; come with their own programming language, and in this case that language also goes by the name &#39;Magma&#39;.</p>
+<p>Magma has been pretty widely used in Number Theory and Group Theory for many years now. And if you&#39;ve used Magma and found a past, you might have experienced that it has been... difficult, sometimes, to get bugs fixed.</p>
+<p>But there is good news&#33; Times are changing, and now there is <a href="https://github.com/Magma-Maths/Magma">this github repo</a>, which serves as an issue tracker for Magma. You can report bugs, request features, or even <a href="https://github.com/Magma-Maths/Magma/issues/94">share permissively-licensed code</a> that you&#39;d like to get incorporated into Magma. Just go to the issue tracker repo and open a github issue; you can look at other issues to get an idea of the format you should use.</p>
+<p>I recently spent six weeks in Syndey, Australia working with the Magma group, and I can tell you for certain that the Magma team actively engages with this issue tracker repo, and I can confidently say it is the best way to get your issue addressed. </p>
+<p>So from now on, if you find a bug or issue with Magma, don&#39;t just accept your fate&#33; Check out the <a href="https://github.com/Magma-Maths/Magma/issues">issues</a> and file a new one if yours isn&#39;t there&#33;</p>
+ ]]>
+  </content:encoded>
+    
+  <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Jack J. Garzella</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  1-Day Vacation Guide: Salt Lake City  ]]>
   </title>
   <link> jjgarzella.github.io/blog/slc_vacation_guide/index.html </link>
