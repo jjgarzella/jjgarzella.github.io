@@ -23,6 +23,137 @@
 
 <item>
   <title>
+    <![CDATA[  Your Superpowers  ]]>
+  </title>
+  <link> jjgarzella.github.io/blog/superpowers/index.html </link>
+  <guid> jjgarzella.github.io/blog/superpowers/index.html </guid>
+  <description>
+    <![CDATA[  A discussion of superpowers that we see every day.  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  <h1 id="your_superpowers">Your Superpowers</h1>
+<p>So you want to be a superhero. Here is a list of superpowers, which three would you choose to have?</p>
+<ul>
+<li><p>the ability to fly </p>
+</li>
+<li><p>the ability to make food appear out of nowhere</p>
+</li>
+<li><p>the ability to touch dirty water and make it pure and safe to drink</p>
+</li>
+<li><p>the ability to make the room that you&#39;re standing in spontaneously hotter or colder</p>
+</li>
+<li><p>the ability to heal sickness, but it only works sometimes</p>
+</li>
+<li><p>the ability to prevent sickness, but it only works sometimes</p>
+</li>
+<li><p>the ability to run twice as fast as Usain Bolt</p>
+</li>
+<li><p>the ability to snap your fingers and destroy a city</p>
+</li>
+</ul>
+<p>Which ones did you choose? Actually, you know what, scratch that, you can have all of them. In addition, you&#39;ll want these super items to help you out on your super journey:</p>
+<ul>
+<li><p>a magic mirror that can show you any of the buddies on your super team at any time and tell you exactly where they are</p>
+</li>
+<li><p>a robot that can talk to you and knows almost anything you can think of, but not quite everything &#40;like Jarvis from Iron Man&#41;</p>
+</li>
+</ul>
+<p>Finally, here&#39;s the catch &#40;you knew there was going to be one, there&#39;s always a catch&#41;. Every time you use one of those superpowers, you use up a little bit of your super juice. If you use too much super juice, you&#39;ll have to rest for a little bit to replenish your super juice levels.</p>
+<p>Sound like something you would take?</p>
+<h2 id="i_already_have_all_of_these_superpowers">I already have all of these superpowers</h2>
+<p>Yes that&#39;s right, I do&#33; My super juice is called <em>money</em>, and all of the super powers above are provided by modern technology:</p>
+<ul>
+<li><p>Airplanes give me the ability to fly &#40;true, if I don&#39;t want to go to big cities, it costs a lot more super juice, but I still can do it&#41;.</p>
+</li>
+<li><p>Synthetic nitrogen fertilizer &#40;among other modern farming techniques&#41; gives the world&#39;s farmers the ability to produce an essentially unlimited amount of food, which lets me use my super juice to get an essentially unlimited amount of food through a middleman, which is called a <em>grocery store</em>.</p>
+</li>
+<li><p>Water filters can let me purify water. If I get a special backpacking-grade filter &#40;which does cost me a bit more super juice&#41;, I can even purify water that is contaminated with chemicals, poop, bacteria, you name it.</p>
+</li>
+<li><p>Modern heating and air conditioning lets me change the temperature of a room.</p>
+</li>
+<li><p>Modern medicine can heal my sicknesses and those of my loved ones, sometimes, often costing a LOT of super juice.</p>
+</li>
+<li><p>Modern medicine can prevent my sicknesses and those of my loved ones, sometimes, often costing a LOT of super juice.</p>
+</li>
+<li><p>Ok, I can&#39;t really run twice as fast as Usain Bolt &#40;27 mph&#33;&#33;&#33;&#41;, but I can drive at more than 60 mph, and that&#39;s basically just as good, because I can drive almost anywhere.</p>
+</li>
+<li><p>Nuclear weapons don&#39;t give <em>me</em> the power to ~~snap my fingers~~ push a button and destroy a city. But they do give that to world leaders of a few countries. So that&#39;s basically just as good.</p>
+</li>
+<li><p>My smartphone is my magic mirror. My computer will also work.</p>
+</li>
+<li><p>An AI chatbot can talk to me, answer most questions that I can think of, but not quite everything.</p>
+</li>
+</ul>
+<p>Ok, maybe you&#39;re dissapointed. There&#39;s really nothing super going on here. And the most disappointing thing is that the way that I replenish my super juice isn&#39;t by resting, but by <em>working a job</em>. What a downer. But I pulled the rug out from under you because I want you to appreciate that our modern technology can do crazy, wonderful, powerful things. Our distant ancestors would regard such things as fantasy, magic, or science fiction. </p>
+<p>And all of these modern superpowers have one thing in common.</p>
+<h2 id="high_school_algebra">High School Algebra</h2>
+<p>Every superpower above has a very similar story. For each one, there are precise <em>equations</em> that describe how something in the real world &#40;be it heat, bacteria, radio waves, you name it&#41;.</p>
+<p>The big idea behind algebra is that we can take the things in the real world, and replace each one with a letter. Then, we can forget about the real world situation entirely, only manipulating the letters based on a few rules. And when we&#39;re done, we can translate the symbols back into real world quantities when we want.</p>
+<h3 id="an_example">An example</h3>
+<p>Let&#39;s ask a real-world question: how much nitrogen gas do I need to make 4 gallons of synthetic nitrogen fertilizer?</p>
+<p>Well, there&#39;s a formula for that, which happens to be:</p>
+\[
+\frac{1}{2} \text{(Amount of Nitrogen gas)} = \text{(Amount of synthetic fertilizer)}
+.\]
+<p>The point of algebra is that I can write this as an equation of letters:</p>
+\[
+\frac{1}{2} x = y
+.\]
+<p>Now, I can use an algebra rule, called &quot;multiplying both sides by 2&quot;, to get</p>
+\[
+x = 2y
+,\]
+<p>and if I want 4 gallons of fertilizer, I can &quot;plug in&quot; 4 for \(y\) to get 8 gallons of Nitrogen gas.</p>
+<h3 id="another_example">Another example</h3>
+<p>If this was just about fertilizer, that would be fine and dandy. But we can do more. Here&#39;s another question: how big does the wing of a plane need to be to lift me off the ground?</p>
+<p>Well, there&#39;s another formula for that. If we assume that the plane is traveling about 15 miles per hour and we&#39;re at about sea level, then the formula is roughly</p>
+\[
+\frac{1}{2} \text{(Area of the wings on the plane)} = \text{(My weight)}
+\]
+<p>which when we turn it into a symbol, is</p>
+\[
+\frac{1}{2} x = y
+.\]
+<p>That&#39;s right, it&#39;s the <em>same equation</em>.</p>
+<h2 id="the_true_advantage_of_algebra">The true advantage of algebra</h2>
+<p>Ok, ok, so there are probably a bunch of nerds in the audience who are barfing at how basic and trivial and obvious my example is.  But this sort of thing happens at every level of math; and the vast majority of the math that gives us superpowers is high school algebra.</p>
+<p>Whether it&#39;s the math behind rockets, skyscrapers, cars, planes, trains, phones, and so on and so forth, all of them are majority high school algebra. And there&#39;s other which I didn&#39;t mention before: finance, voting patterns, things that have a big impact on our daily lives.</p>
+<p>With high school algebra, you learn one set of rules, and they work in any situation.</p>
+<p>So, if you want to have any shot at understanding any of the superpowers I listed above, you have to learn the rules of algebra. </p>
+<h2 id="what_that_means">What that means</h2>
+<p>Thus, the teaching and learning of algebra is of fundamental importance. If you&#39;re someone who teaches high school algebra <sup id="fnref:1">[1]</sup>, then you should know that your job is of fundamental importance for your students&#39; future success. Without a good knowledge of algebra, they will be unable to wield our modern superpowers themselves, and will be at the mercy of those who do.</p>
+<p>If you are a student who is learning algebra, you might be wondering how algebra relates to the real world. Well, this is how. It gives us &#40;collectively, and you individually&#41; super powers. It takes things that were impossible and turns them into things you can buy with just a bit of super juice. It may feel like torture, especially with a bad teacher; but it&#39;s meant to be empowerment.</p>
+<h2 id="bonus_a_secret">Bonus: A secret</h2>
+<p>I want to end by telling you a dirty secret about college math classes. Most starting college math classes are about <em>Calculus</em>. Specifically, here I&#39;m thinking about the classes that usually go by the names Calculus I, Calculus II, Calculus III, and Differential Equations. They all cover math that goes beyond algebra.</p>
+<p>However, the dirty secret is that the hard part of these classes isn&#39;t the new calculus topics. No, in fact, most calculus problems go like this:</p>
+<ol>
+<li><p>Do a little bit of Calculus, which is easy</p>
+</li>
+<li><p>Do a lot of algebra, which is harder, to find the answer</p>
+</li>
+</ol>
+<p>That&#39;s right, the most difficult part about doing a calculus problem is almost always the algebra part. Thus, Calculus classes not only are for teaching Calculus, but for really hammering in students&#39; knowledge of algebra.</p>
+<p>That&#39;s why it can be useful for college majors like biology which might not even actually need Calculus to have it as a gradaution requirement. The calculus might only be useful in specific circumstances, but having that solid foundation of algebra is almost always useful in some way.</p>
+<table class="fndef" id="fndef:1">
+    <tr>
+        <td class="fndef-backref">[1]</td>
+        <td class="fndef-content">Here, that really means any of the various courses where algebra is taught, which includes Algebra 1, Algebra 2, Geometry, Trigonometry, Precalculus, Secondary Math 1, Secondary Math 2, Secondary Math 3, etc.</td>
+    </tr>
+</table> ]]>
+  </content:encoded>
+    
+  <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Jack J. Garzella</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  1-Day Vacation Guide: Salt Lake City  ]]>
   </title>
   <link> jjgarzella.github.io/blog/slc_vacation_guide/index.html </link>
