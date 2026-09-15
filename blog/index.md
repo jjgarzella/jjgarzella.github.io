@@ -1,9 +1,15 @@
 
 @def title = "JJ's Blog"
 
-# Articles
+## General Audience
 
-Browse by tag: [general-audience](/tag/general-audience/) · [code-heavy](/tag/code-heavy/)
+[Your Superpowers](superpowers)
+
+[On the usefulness of basic research](why-basic-research)
+
+[A review of *Yumi and the Nightmare Painter*](nightmare-painter)
+
+[1-Day Vacation Guide: Salt Lake City](slc_vacation_guide)
 
 ## On Mathematical Programming
 
@@ -11,10 +17,8 @@ Browse by tag: [general-audience](/tag/general-audience/) · [code-heavy](/tag/c
 
 [PSA: Magma Issue Tracker Repo](magma_psa)
 
-## General Audience
+## Browse by
 
-[On the usefulness of basic research](why-basic-research)
+Browse by tag: [general-audience](/tag/general-audience/) · [code-heavy](/tag/code-heavy/)
 
-[A review of *Yumi and the Nightmare Painter*](nightmare-painter)
-
-[1-Day Vacation Guide: Salt Lake City](slc_vacation_guide)
+[All articles in order](allposts)
