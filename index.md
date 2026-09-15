@@ -4,7 +4,7 @@
 ![](assets/headshot_2025.jpg)
 @@
 
-Hi! I'm Jack J Garzella, and I'm a Semester Research Fellow at [ICERM](icerm.brown.edu).
+Hi! I'm Jack J Garzella, and I'm a Semester Research Fellow at [ICERM](https://icerm.brown.edu).
 Before that, I completed my PhD at UCSD, where I was advised by [Kiran S. Kedlaya](https://kskedlaya.org/).
 If we've met before, you probably know me by my nickname, JJ. 
 [About my name](name/).
