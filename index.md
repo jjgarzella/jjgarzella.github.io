@@ -5,7 +5,7 @@
 @@
 
 Hi! I'm Jack J Garzella, and I'm a Semester Research Fellow at [ICERM](https://icerm.brown.edu).
-Before that, I completed my PhD at UCSD, where I was advised by [Kiran S. Kedlaya](https://kskedlaya.org/).
+
 If we've met before, you probably know me by my nickname, JJ. 
 [About my name](name/).
 
@@ -17,6 +17,8 @@ You can read a brief description of my research
 * for [mathematicians](research/mathematicians), or 
 * for [potential employers or collaborators](research/employers-collabs/). 
 You can also check out my [papers](research/).
+
+Before being at ICERM, I was a graduate student at UCSD, where I was advised by [Kiran S. Kedlaya](https://kskedlaya.org/).
 
 Email: jgarzellaucsd.edu but replace the "a" with an "@"
 [What's going on?](email/)\\
