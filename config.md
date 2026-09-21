@@ -31,3 +31,4 @@ For instance:
 -->
 \newcommand{\R}{\mathbb R}
 \newcommand{\scal}[1]{\langle #1 \rangle}
+\newcommand{\dhl}[1]{\mathrm{DHL}[#1]}
