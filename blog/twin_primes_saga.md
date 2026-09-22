@@ -1,8 +1,8 @@
-@def title = "Julia Stadlmann and bounded gaps between primes"
-@def rss_title = "Julia Stadlmann and bounded gaps between primes"
-@def rss_pubdate = Date(2026, 9, 21)
-@def rss_description = "Telling the story of the recent progress towards the twin primes conjecture"
-@def tags = ["math-heavy", "meta-math"]
+<!-- @def title = "Julia Stadlmann and bounded gaps between primes" -->
+<!-- @def rss_title = "Julia Stadlmann and bounded gaps between primes" -->
+<!-- @def rss_pubdate = Date(2026, 9, 21) -->
+<!-- @def rss_description = "Telling the story of the recent progress towards the twin primes conjecture" -->
+<!-- @def tags = ["math-heavy", "meta-math"] -->
 
 # Julia Stadlmann and bounded gaps between primes
 

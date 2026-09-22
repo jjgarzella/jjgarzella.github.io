@@ -3,7 +3,7 @@
 
 ## In the News
 
-[Julia Stadlmann and bounded gaps between primes](twin_primes_saga)
+<!-- [Julia Stadlmann and bounded gaps between primes](twin_primes_saga) -->
 
 [PSA: Magma Issue Tracker Repo](magma_psa)
 
@@ -24,6 +24,7 @@
 
 ## Browse by
 
-Browse by tag: [general-audience](/tag/general-audience/) · [code-heavy](/tag/code-heavy/) · [math-heavy](/tag/math-heavy/) · [meta-math](/tag/meta-math/)
+Browse by tag: [general-audience](/tag/general-audience/) · [code-heavy](/tag/code-heavy/) 
+<!-- · [math-heavy](/tag/math-heavy/) · [meta-math](/tag/meta-math/) -->
 
 [All articles in order](allposts)
