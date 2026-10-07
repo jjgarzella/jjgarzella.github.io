@@ -19,6 +19,8 @@
 
 ## Tutorials
 
+[Vibe Coding 101](vibe-coding-101)
+
 [How to Install Julia and Oscar like a Pro](how-to-install-julia)
 
 
