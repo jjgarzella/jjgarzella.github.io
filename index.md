@@ -20,8 +20,8 @@ You can also check out my [papers](research/).
 
 Before being at ICERM, I was a graduate student at UCSD, where I was advised by [Kiran S. Kedlaya](https://kskedlaya.org/).
 
-Email: jgarzellaucsd.edu but replace the "a" with an "@"
-[What's going on?](email/)\\
+Email: jack_garzella at icerm.brown.edu
+<!-- [What's going on?](email/)\\ -->
 Office: HSS 5044\\
 
 

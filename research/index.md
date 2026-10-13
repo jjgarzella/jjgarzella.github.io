@@ -16,12 +16,14 @@ I've written a slightly longer description of my research for various audiences:
 @@card
 Newton strata realization for hypersurfaces via explicit $p$-adic cohomology
 (with R. Batubara, Y. Huang, and M. Mellberg),
+accepted to *ANTS XVII*,
 [arXiv:2602.24155](https://arxiv.org/abs/2602.24155)
 @@
 
 @@card
 $F$-intersection flatness of dagger and Berkovich affinoid algebras
 (with R. Datta and K. Tucker),
+accepted to *Proceedings of the AMS*,
 [arXiv:2511.00753](https://arxiv.org/abs/2511.00753)
 @@
 
