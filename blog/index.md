@@ -3,6 +3,8 @@
 
 ## In the News
 
+[An interesting trend in computer algebra](rawdogging)
+
 [Being a young mathematician is brutal right now (Olivia Rodrigo fan fiction)](its-brutal)
 
 [Julia Stadlmann and bounded gaps between primes](twin_primes_saga)
