@@ -41,7 +41,7 @@
 <p>So if rawdogging has all these disadvantages, why do people do it?</p>
 <p>Everyone has their unique reasons, but here are a few patterns I&#39;ve seen in anecdotal conversations I&#39;ve had:</p>
 <ol>
-<li><p>Familiarity - often, mathemticians might have had prior coding experience in Python or Rust from their before-I-was-a-mathematician days. Installing and learning a new system can be daunting, but picking up an old one isn&#39;t so bad. I&#39;ve even heard of people using stright-up Java for their mathematical code, because they took a Java class before and had some familiarity.</p>
+<li><p>Familiarity - often, mathemticians might have had prior coding experience in Python or Rust from their before-I-was-a-mathematician days. Installing and learning a new system can be daunting, but picking up an old one isn&#39;t so bad. I&#39;ve even heard of people using straight-up Java for their mathematical code, because they took a Java class before and had some familiarity.</p>
 </li>
 <li><p>Accessibility - Python is everywhere and pretty easy to install, and people who have less experience with programming just aren&#39;t going to bother with things that are hard to install. This was especially true pre-AI. </p>
 </li>
