@@ -14,6 +14,12 @@ I've written a slightly longer description of my research for various audiences:
 # Preprints & Publications
 
 @@card
+Topological Transcendence Degree and the dimension problem for perfectoid spaces
+(with D. Dine),
+[arXiv:2611.01418](https://arxiv.org/abs/2611.01418)
+@@
+
+@@card
 Newton strata realization for hypersurfaces via explicit $p$-adic cohomology
 (with R. Batubara, Y. Huang, and M. Mellberg),
 accepted to *ANTS XVII*,
@@ -36,6 +42,7 @@ Abhyankar valuations, Prüfer-Manis valuations, and perfectoid Tate algebras
 @@card
 On $F$-pure thresholds and quasi-$F$-purity of hypersurfaces
 (with V. Jagathese),
+accepted to *Nagoya Math Journal*,
 [arXiv:2509.06211](https://arxiv.org/abs/2509.06211)
 @@
 
